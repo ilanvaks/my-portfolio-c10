@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "name": "Tribute",
+    "content": "Tribute to page out fellow beloved",
+    "website": "https://bocacode.com",
+    "cover": "https://picsum.photos/300/300?random=1"
+  },
+  {
+    "id": 2,
+    "name": "BlueNight in Seoul",
+    "content": "Clock you fool",
+    "website": "https://bocacode.com",
+    "cover": "https://picsum.photos/300/300?random=2" 
+  },
+  {
+    "id": 3,
+    "name": "About Me",
+    "content": "About me yo fool",
+    "website": "https://bocacode.com",
+    "cover": "https://picsum.photos/300/300?random=3"
+  },
+  {
+    "id": 4,
+    "name": "Counter",
+    "content": "Counter React.js",
+    "website": "https://bocacode.com",
+    "cover": "https://picsum.photos/300/300?random=4" 
+  },
+  {
+    "id": 5,
+    "name": "Timber Login",
+    "content": "React Login",
+    "website": "https://bocacode.com",
+    "cover": "https://picsum.photos/300/300?random=5"
+  },
+  {
+    "id": 6,
+    "name": "Quiz App",
+    "content": "Quiz App you fool",
+    "website": "https://bocacode.com",
+    "cover": "https://picsum.photos/300/300?random=6" 
+  },
+  { "id": 7,
+  "name": "Kardeshiev Scale",
+  "content": "Quiz App you fool",
+  "website": "https://bocacode.com",
+  "cover": "https://picsum.photos/300/300?random=7" 
+  }
+]
